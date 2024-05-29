@@ -1,0 +1,17 @@
+.p1{
+    display: flex;
+    position: fixed;
+    top:0;
+    background-color: blanchedalmond;
+    height: 100px;
+    justify-content: space-between;
+    width: 100%;
+
+}
+li{
+    display: inline;
+    padding-right: 80px;
+}
+ul{
+    padding-top:30px;
+}
